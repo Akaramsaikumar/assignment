@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://kit.fontawesome.com/fc2ef66b68.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="main-container">
+        <nav class="nav-items">
+            <ul class="un-list">
+                <li class="lists">Home</li>
+                <li class="lists">Order</li>
+                <li class="lists">Food</li>
+                <li class="lists">Restaurant</li>
+                <li class="lists">Testimonials</li>
+                <li class="lists">Contact Us</li>
+                <li class="hamburger"><i class="fa-solid fa-bars"></i></li>
+            </ul>
+        </nav>
+        <div>
+            <div class="first-container">
+                <div class="sub-first">
+                    <h1 class="main-head">LOREUM IPSUM</h1>
+                    <p>Lorem ipsum dolor sit amet. Qui nesciunt molestiae et nulla voluptate et nihil velit ut commodi galisum aut error obcaecati. Vel rerum placeat non amet doloremque ut culpa consequatur ut nesciunt modi. Qui magni esse non internos aliquid qui doloremque quisquam cum nemo rerum et voluptate impedit eum alias debitis eos recusandae placeat. Est nulla aperiam sit quam autem sed expedita commodi et illo quia qui quaerat dolore et aliquid quae.</p>
+                    <button class="click-btn">Click Me</button>
+                </div>
+                <img src="https://s3images.zee5.com/wp-content/uploads/2023/01/ANI-20230110083915.jpg" class="first-image" />
+            </div>
+
+            <div class="second-container">
+                <div class="sec-sub">
+
+                    <div class="sub-total-images">
+                        <div class="img-sub-con">
+                            <img src="https://images.pexels.com/photos/6752433/pexels-photo-6752433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="stag-img" />
+                            <img src="https://i0.wp.com/tripsonabbeyroad.com/wp-content/uploads/2023/03/lagos-nightlife-portugal-streets.jpg?resize=683%2C1024&ssl=1" class="street" />
+                        </div>
+                        <img src="https://i0.wp.com/networkustad.com/wp-content/uploads/2023/12/pexels-mister-mister-3434523-1-1-scaled.jpg?fit=683%2C1024&ssl=1" class="third-image" />
+                    </div>
+                    <div class="text-container">
+                        <p>LOREUM IPSUM</p>
+                        <h1 class="head">LOREUM IPSUM DOLOR SIT AMET.</h1>
+                        <p>click <button><i class="fa-solid fa-arrow-right-long right-arr"></i></i></button></p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+</body>
+
+</html>
